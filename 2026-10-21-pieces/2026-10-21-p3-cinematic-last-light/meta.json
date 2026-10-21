@@ -1,0 +1,7 @@
+{
+  "title": "Last Light Over the Ridge",
+  "style": "Orchestral / cinematic trailer",
+  "bpm": 72,
+  "key": "D minor",
+  "method": "music21 Roman-numeral harmony + greedy voice leading + rule-based theme -> pretty_midi -> FluidSynth GM orchestra -> convolution hall reverb"
+}

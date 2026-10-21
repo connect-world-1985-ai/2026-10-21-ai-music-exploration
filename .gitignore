@@ -1,0 +1,6 @@
+.venv/
+.venv-ai/
+__pycache__/
+*.tmp.wav
+*.pyc
+/tmp/

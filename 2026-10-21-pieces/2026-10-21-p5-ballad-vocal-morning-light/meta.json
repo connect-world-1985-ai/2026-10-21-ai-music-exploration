@@ -1,0 +1,13 @@
+{
+  "title": "Morning Light",
+  "style": "Pop ballad with synthesized English lead vocal + harmony",
+  "bpm": 84,
+  "key": "C major (I-V-vi-IV)",
+  "lyrics": [
+    "close your eyes the cit tee sleeps",
+    "stars are fal ling in the sea",
+    "hold my hand and sing with me",
+    "we will find the morn ing light"
+  ],
+  "method": "pretty_midi accompaniment -> FluidSynth; eSpeak-NG -> pYIN/pitch-shift/time-stretch 'singing' vocals"
+}

@@ -1,0 +1,7 @@
+{
+  "title": "Rainy Desk",
+  "style": "Lo-fi hip hop / jazzy chillhop",
+  "bpm": 76,
+  "key": "C major (ii-V-I-VI)",
+  "method": "pretty_midi algorithmic composition (swing, humanisation, Markov melody) -> FluidSynth FluidR3 GM -> numpy lo-fi chain"
+}

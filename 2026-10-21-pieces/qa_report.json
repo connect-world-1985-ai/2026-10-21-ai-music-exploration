@@ -1,0 +1,50 @@
+[
+  {
+    "file": "2026-10-21-pieces/2026-10-21-p1-synthwave-neon-overdrive/2026-10-21-p1-synthwave-neon-overdrive.mp3",
+    "duration_s": 58.4,
+    "peak_dbfs": -1.06,
+    "rms_dbfs": -15.8,
+    "size_mb": 1.4,
+    "ok": true
+  },
+  {
+    "file": "2026-10-21-pieces/2026-10-21-p2-lofi-rainy-desk/2026-10-21-p2-lofi-rainy-desk.mp3",
+    "duration_s": 53.5,
+    "peak_dbfs": -1.27,
+    "rms_dbfs": -12.7,
+    "size_mb": 1.29,
+    "ok": true
+  },
+  {
+    "file": "2026-10-21-pieces/2026-10-21-p3-cinematic-last-light/2026-10-21-p3-cinematic-last-light.mp3",
+    "duration_s": 61.1,
+    "peak_dbfs": -1.26,
+    "rms_dbfs": -14.2,
+    "size_mb": 1.47,
+    "ok": true
+  },
+  {
+    "file": "2026-10-21-pieces/2026-10-21-p4-guqin-vocal-moon-over-stream/2026-10-21-p4-guqin-vocal-moon-over-stream.mp3",
+    "duration_s": 76.7,
+    "peak_dbfs": -1.25,
+    "rms_dbfs": -13.8,
+    "size_mb": 1.84,
+    "ok": true
+  },
+  {
+    "file": "2026-10-21-pieces/2026-10-21-p5-ballad-vocal-morning-light/2026-10-21-p5-ballad-vocal-morning-light.mp3",
+    "duration_s": 67.4,
+    "peak_dbfs": -1.02,
+    "rms_dbfs": -14.4,
+    "size_mb": 1.62,
+    "ok": true
+  },
+  {
+    "file": "2026-10-21-pieces/2026-10-21-p6-ai-musicgen-late-night-trio/2026-10-21-p6-ai-musicgen-late-night-trio.mp3",
+    "duration_s": 31.9,
+    "peak_dbfs": -1.25,
+    "rms_dbfs": -13.2,
+    "size_mb": 0.77,
+    "ok": true
+  }
+]

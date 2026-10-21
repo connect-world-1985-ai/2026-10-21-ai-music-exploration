@@ -1,0 +1,7 @@
+{
+  "title": "Moon Over Mountain Stream (月照山河)",
+  "style": "Chinese pentatonic, guqin & xiao inspired, Mandarin synthesized vocal",
+  "key": "D gong-mode pentatonic",
+  "lyrics": "月光照山河，流水向远方",
+  "method": "Additive guqin model with pitch-slide curves + noise-excited xiao (numpy DSP); Markov pentatonic melody; eSpeak-NG cmn singing"
+}

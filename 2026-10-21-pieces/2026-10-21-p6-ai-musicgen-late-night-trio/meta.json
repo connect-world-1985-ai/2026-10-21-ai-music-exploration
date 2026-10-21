@@ -1,0 +1,6 @@
+{
+  "title": "Late Night Trio (MusicGen)",
+  "style": "Smooth jazz piano trio (AI text-to-music)",
+  "prompt": "late night smooth jazz trio, warm upright bass walking line, brushed drums, mellow grand piano chords and melody, intimate club recording, 90 bpm",
+  "method": "facebook/musicgen-small (300M, HF transformers, CPU, seed 2026, guidance 3.0, 1600 tokens) + mastering"
+}

@@ -1,0 +1,10 @@
+# Main environment (.venv) - DSP, composition, rendering, vocals
+numpy
+scipy
+soundfile
+pretty_midi
+mido
+music21
+matplotlib
+librosa
+# System packages (Debian/Ubuntu): fluidsynth fluid-soundfont-gm espeak-ng ffmpeg sox lame

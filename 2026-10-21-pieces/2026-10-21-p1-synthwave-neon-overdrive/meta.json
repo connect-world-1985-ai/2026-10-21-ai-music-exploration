@@ -1,0 +1,7 @@
+{
+  "title": "Neon Overdrive",
+  "style": "Synthwave / retro EDM",
+  "bpm": 104,
+  "key": "A minor",
+  "method": "Pure numpy/scipy DSP synthesis: PolyBLEP saw/square oscillators, supersaw, FM lead, noise drums, sidechain, convolution reverb"
+}
